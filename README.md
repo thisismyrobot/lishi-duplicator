@@ -1,4 +1,4 @@
-# Lishi key duplication grip
+# Falcon - Lishi key duplication grip
 
 A simple printable gripper for duplicating standard Australian Lockwood 5-pin keys (and others to come) in the Lishi pliers.
 
