@@ -1,18 +1,22 @@
 # Falcon - Lishi key duplication grip
 
-A simple printable gripper for duplicating standard Australian Lockwood 5 and 6-pin keys using Lishi pliers.
+Simple 3D-printable grippers for duplicating standard Australian Lockwood and USA Schlage 5 and 6-pin keys using Lishi pliers.
 
-The lockwood LW4 version, with key and blank fitted:
+The LW4 (5 pin Lockwood) version, with key and blank fitted:
 
 ![](img/lw4.jpg)
 
-The LW4 and LW5 versions:
+The LW4 and LW5 (6 pin Lockwood) versions:
 
 ![](img/lw45.jpg)
 
-Video of it in action: https://youtube.com/shorts/aRuCTonbLPk
+The SC4 (6 pin Schlage) and SC1 (5 pin Schlage) version:
 
-A pic of some of the development process:
+![](img/sc41.jpg)
+
+A video of the LW5 version in action: https://youtube.com/shorts/aRuCTonbLPk
+
+A pic of some of the early development process:
 
 ![](img/development.jpg)
 
@@ -24,4 +28,4 @@ These can be printed on a 0.4mm nozzle, and I recommend this orientation:
 
 ## Files
 
-They are in this repository, or you can go to [Thingiverse](https://www.thingiverse.com/thing:7047489).
+They are the STL files in this repository, or you can go to [Thingiverse](https://www.thingiverse.com/thing:7047489).
